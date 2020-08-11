@@ -1,5 +1,5 @@
 # Python-Web-Scraper-US-Cities-Info-
-A Python web scrper to extract data about the top cities in US from Wikipedia and individual sites of the cities.
+A Python web scraper to extract data about the top cities in US from Wikipedia and individual sites of the cities.
 
 The scraper is written in Python using BeautifulSoup and Pandas libraries. 
 The code can be directly run on any Python IDE. 
